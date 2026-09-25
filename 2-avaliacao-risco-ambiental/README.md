@@ -48,4 +48,4 @@ Detalhamento metodológico e resultados referentes aos módulos:
   
 - Módulo III: Planejamento da Mitigação do Risco
  
-   ──PERCENTUAL DO RISCO RESIDUAL
+   ── PERCENTUAL DO RISCO RESIDUAL
