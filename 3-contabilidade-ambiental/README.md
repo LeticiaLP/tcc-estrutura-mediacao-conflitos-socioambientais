@@ -7,21 +7,21 @@
 
 ├── IMPACTOS FINANCEIROS
 
-│   └── Impacto Financeiro por Perda de Produtividade
+│   ├── Impacto Financeiro por Perda de Produtividade
 
-│   └──── Função de Impacto Financeiro por Perda de Produtividade
+│   ├──── Função de Impacto Financeiro por Perda de Produtividade
 
 │   └──── Cálculo do Impacto Financeiro por Perda de Produtividade
 
-│   └── Impacto Financeiro por Processos Judiciais
+│   ├── Impacto Financeiro por Processos Judiciais
 
 │   └──── Cálculo do Impacto Financeiro por Processos Judiciais
 
 ├── VALOR FINANCEIRO PONDERADO DO RISCO
 
-│   └── Função do Valor Financeiro Ponderado do Risco
+│   ├── Função do Valor Financeiro Ponderado do Risco
 
-│   └── Cálculo do Valor Financeiro do Risco
+│   ├── Cálculo do Valor Financeiro do Risco
 
 │   └── Cálculo do Valor Financeiro do Risco após Mitigação
 
@@ -35,7 +35,7 @@
 
 ├── LUCRO BRUTO E LÍQUIDO DO NEGÓCIO
 
-│   └──  Cálculo do Lucro Bruto
+│   ├──  Cálculo do Lucro Bruto
       
 │   └──  Cálculo do Lucro Líquido
 
