@@ -40,5 +40,13 @@ Conteúdo:
 - Contém figuras anexadas no markdown do arquivo "Avaliação de Risco Ambiental.ipynb".
 - Contém figuras das matrizes no arquivo "Avaliação de Risco Ambiental.ipynb".
 
+#### 3-contabilidade-ambiental
+Detalhamento metodológico e resultados referentes aos módulos:
+- Módulo III: Planejamento da Mitigação do Risco
+- Módulo IV: Contabilidade Ambiental
 
+Conteúdo:
+- Contém o arquivo "Contabilidade Ambiental.ipynb" com todas as saídas do processamento dos códigos.
+- Contém o arquivo "Contabilidade Ambiental.py" com os códigos.
+- Contém figuras anexadas no markdown do arquivo "Contabilidade Ambiental.ipynb".
 
