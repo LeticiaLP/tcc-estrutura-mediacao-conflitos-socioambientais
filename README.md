@@ -16,7 +16,7 @@ Descrição: Os conflitos socioambientais envolvem interesses relacionados ao us
 ### Documentos por Pasta
 
 #### 1-Documentação
-Contém o arquivo "tcc_tabela_variaveis" contendo uma tabela com detalhamento das variáveis usadas no trabalho.
+Contém o arquivo "tcc_tabela_variaveis.xlsx" contendo uma tabela com detalhamento das variáveis usadas no trabalho.
 
 Campos da tabela: 
 - Tipo da variável
